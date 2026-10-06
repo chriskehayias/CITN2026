@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="You-Can-Build-That-CITN26-v3.pptx"><img src="assets/covers/you-can-build-that.jpg" alt="You Can Build That: Getting Started with Claude Code" width="100%"/></a>
+      <a href="You-Can-Build-That-CITN26.pptx"><img src="assets/covers/you-can-build-that.jpg" alt="You Can Build That: Getting Started with Claude Code" width="100%"/></a>
       <br/>
       <b>01 · <a href="#you-can-build-that">You Can Build That</a></b><br/>
       <sub>Getting Started with Claude Code · 21 slides</sub>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="Building-on-MinistryPlatform-with-MPNext_1.pptx"><img src="assets/covers/building-on-mp-with-mpnext.jpg" alt="Building on MinistryPlatform with MPNext" width="100%"/></a>
+      <a href="Building-on-MinistryPlatform-with-MPNext.pptx"><img src="assets/covers/building-on-mp-with-mpnext.jpg" alt="Building on MinistryPlatform with MPNext" width="100%"/></a>
       <br/>
       <b>03 · <a href="#building-on-ministryplatform-with-mpnext">Building on MinistryPlatform with MPNext</a></b><br/>
       <sub>An opinionated tour with Claude Code · 16 slides</sub>
@@ -70,7 +70,7 @@ flowchart LR
 
 ## You Can Build That
 
-**Getting Started with Claude Code** &nbsp;·&nbsp; 45 min &nbsp;·&nbsp; 21 slides &nbsp;·&nbsp; [📥 Download the deck](You-Can-Build-That-CITN26-v3.pptx)
+**Getting Started with Claude Code** &nbsp;·&nbsp; 45 min &nbsp;·&nbsp; 21 slides &nbsp;·&nbsp; [📥 Download the deck](You-Can-Build-That-CITN26.pptx)
 
 An honest orientation for church IT generalists: what Claude Code actually is (not a chatbot, not autocomplete, but an agent), how the daily workflow feels, where it shines, where it wastes your afternoon, and the five habits that decide which one you get. The live demo builds a first-time guest follow-up board from a ChMS export, catching bad data along the way.
 
@@ -100,7 +100,7 @@ Your prototype is the easy 20%. This session covers the other 80%: data, hosting
 
 ## Building on MinistryPlatform with MPNext
 
-**An opinionated tour of building on it with Claude Code** &nbsp;·&nbsp; 45 min &nbsp;·&nbsp; 16 slides &nbsp;·&nbsp; [📥 Download the deck](Building-on-MinistryPlatform-with-MPNext_1.pptx)
+**An opinionated tour of building on it with Claude Code** &nbsp;·&nbsp; 45 min &nbsp;·&nbsp; 16 slides &nbsp;·&nbsp; [📥 Download the deck](Building-on-MinistryPlatform-with-MPNext.pptx)
 
 A tour of what the MPNext starter decides for you, why those calls hold up, and where to deviate. It covers OAuth, 301 generated TypeScript models and Zod schemas, and the MPHelper service layer. MinistryPlatform shops get a head start. Everyone else gets a case study in turning codegen into context for an AI agent.
 
